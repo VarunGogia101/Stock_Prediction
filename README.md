@@ -1,4 +1,4 @@
-# python-test
+
 Description
 This project is to apply machine learning in one of the most challenging areas in finance: price
 prediction. In the course of the project, you will get familiar with (1) the procedure of machine learning
