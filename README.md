@@ -6,6 +6,5 @@ prediction on time series; (2) extracting informative features and constructing 
 features and classifiers to optimize the performance and optionally (4) building an algorithmic trading
 strategy based on machine learning.
 
-Data
-
+Data-
 We focus on the S&P stock universe and use daily price data.
